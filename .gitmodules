@@ -1,0 +1,16 @@
+# [submodule "libs/azure-iot-middleware-freertos"]
+# 	path = libs/azure-iot-middleware-freertos
+# 	url = https://github.com/Azure/azure-iot-middleware-freertos.git
+# [submodule "libs/ampl-gsl"] NOT NEDDED ANY MORE
+# 	path = libs/ampl-gsl
+# 	url = https://github.com/csxdigital/ampl-gsl.git
+# [submodule "components/esp-dsp"]
+# 	path = components/esp-dsp
+# 	url = https://github.com/espressif/esp-dsp.git
+# [submodule "components/esp32-uuid"]
+# 	path = components/esp32-uuid
+# 	url = https://github.com/csxdigital/esp32-uuid.git
+[submodule "components/ade9000-C"]
+	path = components/ade9000-C
+	url = https://github.com/nicolasgou/ade9000-C.git
+

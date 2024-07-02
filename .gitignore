@@ -50,3 +50,17 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#sdkconfig ->the menuconfig settings
+sdkconfig.old
+*~
+*#
+.#*
+*.swp
+*.lock
+
+#folders
+/.vscode
+build
+ampl-gsl
+managed_components
